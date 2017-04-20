@@ -1,0 +1,29 @@
+body{
+	padding: 200px;
+	color: #
+	background-color: #83E7E3;
+	background-image: url("http://covers.cbrd.info/8ee15923664a1ff58e5f7fddfdb91679_l.jpg");
+	margin: 2cm 4cm 3cm 4cm;
+	margin: 4% auto;
+}
+html{
+	text-align: center;
+}
+h6{
+	font-size: 1%;
+}
+title{
+	font-size 100%;
+	
+	
+}
+h2, ul{
+	border: 5px solid white;
+	border-color: #000000;
+	background-color: white;
+}
+dd{
+	border: 5px solid white;
+	border-color: #000000;
+	background-color: white;
+}
